@@ -32,7 +32,7 @@ with silent vibrations
 world chants of
 riddim of death
 forlorn despite
-her sacrifice won't be enough
+her (bold) sacrifice won't be enough
 to satiate blood in excess 
 
 played scrolls open 
