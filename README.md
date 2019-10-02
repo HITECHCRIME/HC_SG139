@@ -86,18 +86,17 @@ riddim of death
 
 
 RIDDIM
-with him	92	[/x]	
-Phrase
-give him	92	[/x]	
-Phrase
-kill him	92	[/x]	
-Phrase
-bring him	92	[/x]	
-Phrase
-hear him	92	[/x]	
-Phrase
-hit him	92	[/x]	
-Phrase
+with him	
+give him
+
+kill him	
+
+bring him	
+
+hear him	
+
+hit him
+
 within him	92	[x/x]	
 Phrase
 near him	92	[/x]	
