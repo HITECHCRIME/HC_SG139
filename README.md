@@ -29,13 +29,24 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
-(it's the riddim of death)
+
+world chants
+nobody found
+nobody is around
+world chants
+with silent vibrations
+(it's the riddim of death) <
 
 world chants of
-riddim of death
 forlorn despite
 her (bold) sacrifice won't be enough
 to satiate blood in excess 
+
+world chants of
+forlorn despite
+her (bold) sacrifice won't be enough
+to satiate blood in excess 
+(it's the riddim of death) <
 
 scrolls played open 
 not a whim of chance
