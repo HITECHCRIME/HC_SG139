@@ -18,11 +18,11 @@ Riddim of Death?
 heeeeeeeeelp
 meeeeee
 
-heeeeeeeeelp
-meeeeee
+heeeeeeeeelp /  break
+meeeeee      /  me
 
-heeeeeeeeelp
-meeeeee
+heeeeeeeeelp / hear
+meeeeee      / me
 
 world chants
 nobody found
