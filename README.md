@@ -6,9 +6,6 @@
 
 ## Project Data
 
-Description.
-[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
-
 **Title:** X / **Featuring:** MOTHNODE
 
 **Production:** Griesgrammar / **Lyrics:** MOTHNODE
@@ -35,5 +32,9 @@ x
 | 4 | *as i* **reach** to grab the |  **mic** i contem-  | **plate** what i | **might** say |
 
 ## Notes
+
+Such a fat bass. Gritty voice beginning and some narrative audio. Mid high tones,
+
+[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
 
 ## Music Video
