@@ -7,8 +7,7 @@
 ## Project Data
 
 Description.
-[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404 [prod. ].wav
-
+[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
 
 **Title:** X / **Featuring:** MOTHNODE
 
