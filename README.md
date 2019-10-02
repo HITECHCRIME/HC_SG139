@@ -27,19 +27,23 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
-it's the riddim of death
+(it's the riddim of death)
 
-world chants 
+world chants of
 riddim of death
 forlorn despite
 her sacrifice won't be enough
-blood in excess played
-to let people emerge
+to satiate blood in excess 
 
-scrolls open 
+played scrolls open 
 not a whim of chance
 to save the human breath
 accomodate accomodate accomodate
+to let people emerge
+
+
+
+
 
 
 
