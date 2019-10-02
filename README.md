@@ -286,6 +286,406 @@ supply him	84	[x/x]
 Phrase
 endeared him
 
+DEATH
+breath	100	♫	[/]	
+Noun
+Seth	100	♫	[/]	
+Name
+Macbeth	100	♫	[x/]	
+Name
+meth	100	♫	[/]	
+Noun
+Beth	100		[/]	
+Name
+Ebv	100		[/]	
+Name
+Eth	100		[/]	
+Name
+Sheth	100		[/]	
+Name
+Neth	100		[/]	
+Name
+Heth	100		[/]	
+Name
+Sneath	100		[/]	
+Name
+deth	100		[/]	
+Noun
+Mcbeth	100		[x/]	
+Name
+health	92		[/]	
+Noun
+length	92		[/]	
+Noun
+strength	92		[/]	
+Noun
+depth	92		[/]	
+Noun
+wealth	92		[/]	
+Noun
+deaths	92		[/]	
+Noun
+tenth	92		[/]	
+Noun, Adjective
+breadth	92		[/]	
+Noun
+in depth	92		[xx]	
+Phrase
+breaths	92		[/]	
+Noun
+nth	92		[/]	
+Adjective
+stealth	92		[/]	
+Noun
+in breadth	92		[x/]	
+Phrase
+wreathed	92		[/]	
+Adjective
+Sgpt	92		[/]	
+Name
+Bethke	92		[/]	
+Name
+der eth	92		[/x]	
+Phrase
+Bethe	90		[/]	
+Name
+with	88		[/]	
+Other
+Smith	88		[/]	
+Name
+fifth	88		[/]	
+Adjective, Noun
+myth	88		[/]	
+Noun
+ith	88		[/]	
+Adjective
+Smyth	88		[/]	
+Name
+pith	88		[/]	
+Noun
+Frith	88		[/]	
+Name
+scythe	88		[/]	
+Noun
+Blyth	88		[/]	
+Name
+kith	88		[/]	
+Noun
+yth	88		[/]	
+Noun
+b'rith	88		[/]	
+Noun
+vth	88		[/]	
+Noun, Adjective
+Stith	88		[/]	
+Name
+lith	88		[/]	
+Noun
+Sith	88		[/]	
+Name
+brith	88		[/]	
+Noun
+as	86		[/]	
+Noun, Adverb
+'s	86		[/]	
+Verb
+again	86		[x/]	
+Adverb
+care	86		[/]	
+Noun, Verb
+air	86		[/]	
+Noun
+cell	86		[/]	
+Noun
+bed	86		[/]	
+Noun
+address	86		[/x]	
+Noun, Verb
+check	86		[/]	
+Verb, Noun
+aware	86		[x/]	
+Adjective
+bear	86		[/]	
+Verb, Noun
+ahead	86		[x/]	
+Adverb
+chair	86		[/]	
+Noun
+compare	86		[x/]	
+Verb
+bell	86		[/]	
+Noun
+bread	86		[/]	
+Noun
+chem	86		[/]	
+Noun
+assess	86		[x/]	
+Verb
+Ben	86		[/]	
+Name
+affair	86		[x/]	
+Noun
+bare	86		[/]	
+Adjective
+cigarette	86		[xx/]	
+Noun
+bet	86		[/]	
+Verb, Noun
+Cornell	86		[x/]	
+Name
+beg	86		[/]	
+Verb
+confess	86		[x/]	
+Verb
+Chen	86		[/]	
+Name
+bless	86		[/]	
+Verb
+Czech	86		[/]	
+Name, Adjective
+Beck	86		[/]	
+Name
+bred	86		[/]	
+Verb, Adjective
+Blair	86		[/]	
+Name
+Claire	86		[/]	
+Name
+condemn	86		[x/]	
+Verb
+chess	86		[/]	
+Noun
+amen	86		[x/]	
+Noun
+Belle	86		[/]	
+Name
+avec	86		[x/]	
+Other
+compel	86		[x/]	
+Verb
+clare	86		[/]	
+Noun
+beware	86		[x/]	
+Verb
+contests	86		[/x]	
+Noun
+Cheng	86		[/]	
+Name
+cassette	86		[x/]	
+Noun
+beset	86		[x/]	
+Verb
+cette	86		[/]	
+Noun
+Barnett	86		[x/]	
+Name
+chez	86		[/]	
+Noun
+chef	86		[/]	
+Noun
+clientele	86		[xx/]	
+Noun
+Brett
+compress	86		[/x]	
+Verb, Noun
+Cheyenne	86		[x/]	
+Name
+Clair	86		[/]	
+Name
+cartel	86		[x/]	
+Noun
+Bel	86		[/]	
+Name
+cheque	86		[/]	
+Noun
+Annette	86		[x/]	
+Name
+bled	86		[/]	
+Verb
+Chavez	86		[/x]	
+Name
+cadet	86		[x/]	
+Noun
+Bess	86		[/]	
+Name
+Burnett	86		[x/]	
+Name
+Carmel	86		[x/]	
+Name
+caress	86		[x/]	
+Noun, Verb
+Chien	86		[/]	
+Name
+afresh	86		[x/]	
+Adverb
+Adele	86		[x/]	
+Name
+Baer	86		[/]	
+Name
+Antoinette	86		[xx/]	
+Name
+clarinet	86		[xx/]	
+Noun
+coalesce	86		[xx/]	
+Verb
+attests	86		[x/]	
+Verb
+Aec	86		[/]	
+Name
+Adrienne	86		[xx/]	
+Name
+cen	86		[/]	
+Noun
+acquiesce	86		[xx/]	
+Verb
+Adair	86		[x/]	
+Name
+Clem	86		[/]	
+Name
+Benn	86		[/]	
+Name
+Cattell	86		[x/]	
+Name
+cet	86		[/]	
+Noun
+befell	86		[x/]	
+Verb
+Chretien	86		[x/]	
+Name
+Cortez	86		[x/]	
+Name
+Biomed	86		[xx/]	
+Name, Verb
+celle	86		[/]	
+Noun
+Cec	86		[/]	
+Name
+Chet	86		[/]	
+Name
+cher	86		[/]	
+Noun
+allege	86		[x/]	
+Verb
+beget	86		[x/]	
+Verb
+baronet	86		[/xx]	
+Noun
+brunette	86		[x/]	
+Noun
+corvette	86		[x/]	
+Noun
+cayenne	86		[x/]	
+Noun
+Chapelle	86		[x/]	
+Name
+cess	86		[/]	
+Noun
+bev	86		[/]	
+Noun
+Brownell	86		[x/]	
+Name
+Bahr	86		[/]	
+Name
+Bret	86		[/]	
+Name
+cornet	86		[x/]	
+Noun
+Cordell	86		[x/]	
+Name
+Bernadette	86		[xx/]	
+Name
+Cottrell	86		[x/]	
+Name
+Clegg	86		[/]	
+Name
+bem	86		[/]	
+Noun
+cls	86		[/]	
+Noun
+aire	86		[/]	
+Noun
+affaire	86		[x/]	
+Noun
+Burrell	86		[x/]	
+Name
+cem	86		[/]	
+Noun
+calumet	86		[xx/]	
+Noun
+Cabell	86		[x/]	
+Name
+aer	86		[/]	
+Noun
+bcs	86		[x/]	
+Noun
+clef	86		[/]	
+Noun
+Behn	86		[/]	
+Name
+Apollinaire	86		[xxx/]	
+Name
+cortege	86		[x/]	
+Noun
+Alasdair	86		[xx/]	
+Name
+abed	86		[x/]	
+Adverb
+bec	86		[/]	
+Noun
+bef	86		[/]	
+Noun
+Chanel	86		[x/]	
+Name
+Cavell	86		[x/]	
+Name
+Cep	86		[/]	
+Name
+cress	86		[/]	
+Noun
+cde	86		[/]	
+Noun
+Battelle	86		[x/]	
+Name
+Ansel	86		[x/]	
+Name
+Arnett	86		[x/]	
+Name
+cuvette	86		[x/]	
+Noun
+cel	86		[/]	
+Noun
+Bechtel	86		[x/]	
+Name
+bren	86		[/]	
+Noun
+astaire	86		[x/]	
+Noun
+Annuaire	86		[x/]	
+Name
+Belem	86		[x/]	
+Name
+Bucknell	86		[x/]	
+Name
+creche	86		[/]	
+Noun
+contraire	86		[x/]	
+Noun
+billionaire	86		[xx/]	
+Noun
+coquette	86		[x/]	
+Noun
+beng	86		[/]	
+Noun
+aet	86		[/]	
+Noun
+burette	86		[x/]	
+Noun
+Apel	86		[x/]	
+Name
+Bourget	86		[x/]	
+Name
+blare
+
 
 ```
 
