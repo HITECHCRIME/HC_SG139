@@ -30,10 +30,13 @@ with silent vibrations
 
 world chants 
 riddim of death
+sacrifice her
 
 scrolls open 
+not a whim of chance
 to save the human breath
 accomodate accomodate accomodate
+
 
 
 ```
