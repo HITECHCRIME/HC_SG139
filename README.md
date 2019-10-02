@@ -35,7 +35,7 @@ forlorn despite
 her (bold) sacrifice won't be enough
 to satiate blood in excess 
 
-played scrolls open 
+scrolls played open 
 not a whim of chance
 to save the human breath
 accomodate accomodate accomodate
