@@ -686,6 +686,530 @@ Bourget	86		[x/]
 Name
 blare
 
+CHANT
+
+aunts	100	♫	[/]	
+Noun
+plants	100		[/]	
+Noun
+grants	100		[/]	
+Noun
+pants	100		[/]	
+Noun
+ants	100		[/]	
+Noun
+implants	100		[x/]	
+Noun
+transplants	100		[x/]	
+Noun
+Nantes	100		[/]	
+Name
+Frantz	100		[/]	
+Name
+hants	100		[/]	
+Noun
+Krantz	100		[/]	
+Name
+slants	100		[/]	
+Noun, Verb
+Glantz	100		[/]	
+Name
+supplants	100		[x/]	
+Verb
+Lantz	100		[/]	
+Name
+rants	100		[/]	
+Noun, Verb
+Gantz	100		[/]	
+Name
+cants	100		[/]	
+Noun
+Schantz	100		[/]	
+Name
+Shantz	100		[/]	
+Name
+dance	92	♫	[/]	
+Noun, Verb
+glance	92	♫	[/]	
+Noun
+France	92		[/]	
+Name
+chance	92		[/]	
+Noun
+acts	92		[/]	
+Noun
+facts	92		[/]	
+Noun
+advance	92		[x/]	
+Noun, Verb
+finance	92		[x/]	
+Noun, Verb
+in advance	92		[xx/]	
+Phrase, Adverb
+contracts	92		[/x]	
+Noun
+rats	92		[/]	
+Noun
+enhance	92		[x/]	
+Verb
+romance	92		[x/]	
+Noun
+cats	92		[/]	
+Noun
+stance	92		[/]	
+Noun
+impacts	92		[x/]	
+Noun
+extracts	92		[/x]	
+Noun
+contrasts	92		[/x]	
+Noun, Verb
+tracts	92		[/]	
+Noun
+castes	92		[/]	
+Noun
+hats	92		[/]	
+Noun
+crafts	92		[/]	
+Noun
+lasts	92		[/]	
+Verb
+fats	92		[/]	
+Noun
+forecasts	92		[x/]	
+Noun
+lance	92		[/]	
+Noun
+casts	92		[/]	
+Verb, Noun
+Katz	92		[/]	
+Name
+flats	92		[/]	
+Noun
+reacts	92		[x/]	
+Verb
+drafts	92		[/]	
+Noun
+grafts	92		[/]	
+Noun
+trance	92		[/]	
+Noun
+shafts	92		[/]	
+Noun
+attracts	92		[x/]	
+Verb
+bats	92		[/]	
+Adjective
+mats	92		[/]	
+Noun
+expanse	92		[x/]	
+Noun
+interacts	92		[xx/]	
+Verb, Noun
+Vance	92		[/]	
+Name
+blasts	92		[/]	
+Noun
+masts	92		[/]	
+Noun
+rafts	92		[/]	
+Noun
+adapts	92		[x/]	
+Verb
+actes	92		[/]	
+Noun
+perchance	92		[x/]	
+Adverb
+stats	92		[/]	
+Noun
+pacts	92		[/]	
+Noun
+enacts	92		[x/]	
+Verb
+slats	92		[/]	
+Noun
+nance	92		[/]	
+Noun
+ance	92		[/]	
+Noun
+pats	92		[/]	
+Noun, Verb
+fasts	92		[/]	
+Noun
+vats	92		[/]	
+Noun
+draughts	92		[/]	
+Noun
+osteoclasts	92		[xxx/]	
+Noun
+askance	92		[x/]	
+Adverb
+chats	92		[/]	
+Noun
+combats	92		[x/]	
+Noun, Verb
+compacts	92		[x/]	
+Noun
+pasts	92		[/]	
+Noun
+ats	92		[/]	
+Noun
+manse	92		[/]	
+Noun
+detracts	92		[x/]	
+Verb
+gats	92		[/]	
+Noun
+prance	92		[/]	
+Noun, Verb
+ghats	92		[/]	
+Noun
+Schatz	92		[/]	
+Name
+bracts	92		[/]	
+Noun
+gnats	92		[/]	
+Noun
+clasts	92		[/]	
+Noun
+distracts	92		[x/]	
+Verb
+Platz	92		[/]	
+Name
+refinance	92		[xx/]	
+Verb
+danse	92		[/]	
+Noun
+Satz	92		[/]	
+Name
+exacts	92		[x/]	
+Verb
+Anse	92		[/]	
+Name
+thats
+subtracts	92		[x/]	
+Verb
+brats	92		[/]	
+Noun
+Gratz	92		[/]	
+Name
+retracts	92		[x/]	
+Verb
+sats	92		[/]	
+Noun
+plats	92		[/]	
+Noun
+rance	92		[/]	
+Noun
+spats	92		[/]	
+Noun
+mattes	92		[/]	
+Noun
+Hanse	92		[/]	
+Name, Adjective
+nats	92		[/]	
+Noun
+mance	92		[/]	
+Noun
+avance	92		[x/]	
+Noun
+Maltz	92		[/]	
+Name
+lats	92		[/]	
+Noun
+Mccance	92		[x/]	
+Name
+oblasts	92		[x/]	
+Noun
+wafts	92		[/]	
+Verb, Noun
+Hance	92		[/]	
+Name
+lattes	92		[/]	
+Noun
+batts	92		[/]	
+Noun
+recasts	92		[x/]	
+Verb, Noun
+Matz	92		[/]	
+Name
+Spatz	92		[/]	
+Name
+Shatz	92		[/]	
+Name
+scats	92		[/]	
+Noun
+platts	92		[/]	
+Noun
+cat's	92		[/]	
+Noun, Adjective
+Kratz	92		[/]	
+Name
+tats	92		[/]	
+Noun
+lafrance	92		[x/]	
+Noun
+tacts	92		[/]	
+Noun
+reenacts	92		[xx/]	
+Verb
+outlasts	92		[/x]	
+Verb
+refracts	92		[x/]	
+Verb
+gance	92		[/]	
+Noun
+dats	92		[/]	
+Noun
+Prats	92		[/]	
+Name
+banks	88		[/]	
+Noun
+thanks	88		[/]	
+Noun
+ranks	88		[/]	
+Noun
+camps	88		[/]	
+Noun
+tanks	88		[/]	
+Noun
+lamps	88		[/]	
+Noun
+stamps	88		[/]	
+Noun
+francs	88		[/]	
+Noun
+blanks	88		[/]	
+Noun
+franks	88		[/]	
+Noun
+flanks	88		[/]	
+Noun
+planks	88		[/]	
+Noun
+cramps	88		[/]	
+Noun
+clamps	88		[/]	
+Noun
+ramps	88		[/]	
+Noun
+amps	88		[/]	
+Noun
+hanks	88		[/]	
+Noun
+champs	88		[/]	
+Noun
+shanks	88		[/]	
+Noun
+pranks	88		[/]	
+Noun
+yanks	88		[/]	
+Noun, Verb
+cranks	88		[/]	
+Noun
+Manx	88		[/]	
+Name, Adjective
+gramps	88		[/]	
+Noun
+blancs	88		[/]	
+Noun
+damps	88		[/]	
+Noun, Verb
+bankes	88		[/]	
+Noun
+danks	88		[/]	
+Noun
+lancs	88		[/]	
+Noun
+hands	86		[/]	
+Noun
+demands	86		[x/]	
+Noun, Verb
+stands	86		[/]	
+Noun
+lands	86		[/]	
+Noun
+bands	86		[/]	
+Noun
+commands	86		[x/]	
+Noun, Verb
+glands	86		[/]	
+Noun
+understands	86		[xx/]	
+Verb
+strands	86		[/]	
+Noun
+sands	86		[/]	
+Noun
+brands	86		[/]	
+Noun
+expands	86		[x/]	
+Verb
+grandes	86		[/]	
+Noun
+grands	86		[/]	
+Noun
+landes	86		[/]	
+Noun
+prandtl	86		[/]	
+Noun
+brandes	86		[/]	
+Noun
+probands	86		[x/]	
+Noun
+misunderstands	86		[xxx/]	
+Verb
+withstands	86		[x/]	
+Verb
+ands	86		[/]	
+Noun
+rands	86		[/]	
+Noun
+bandes	86		[/]	
+Noun
+class	84		[/]	
+Noun
+events	84		[x/]	
+Noun
+mass	84		[/]	
+Noun
+gas	84		[/]	
+Noun
+glass	84		[/]	
+Noun
+advanced	84		[x/]	
+Adjective
+accounts	84		[x/]	
+Noun
+grant	84		[/]	
+Noun, Verb
+contents	84		[/x]	
+Noun
+amounts
+grass	84		[/]	
+Noun
+attacks	84		[x/]	
+Noun
+constraints	84		[x/]	
+Noun
+blacks	84		[/]	
+Noun
+asks	84		[/]	
+Verb
+maps	84		[/]	
+Noun
+das	84		[/]	
+Noun
+aunt	84		[/]	
+Noun
+max	84		[/]	
+Noun
+enhanced	84		[x/]	
+Adjective
+collapse	84		[x/]	
+Noun, Verb
+Mass.	84		[/]	
+Name
+complaints	84		[x/]	
+Noun
+joints	84		[/]	
+Noun
+glanced	84		[/]	
+Verb
+counts	84		[/]	
+Noun, Verb
+cents	84		[/]	
+Noun
+bass	84		[/]	
+Noun
+brass	84		[/]	
+Noun
+ass	84		[/]	
+Noun
+lacks	84		[/]	
+Verb
+Kant	84		[/]	
+Name
+gaps	84		[/]	
+Noun
+fax	84		[/]	
+Noun
+backs	84		[/]	
+Noun
+alas	84		[x/]	
+Adverb
+cracks	84		[/]	
+Noun
+financed	84		[x/]	
+Adjective
+graphs	84		[/]	
+Noun
+danced	84		[/]	
+Verb
+masks	84		[/]	
+Noun
+hints	84		[/]	
+Noun
+ant	84		[/]	
+Noun
+caps	84		[/]	
+Noun
+baths	84		[/]	
+Noun
+axe	84		[/]	
+Noun
+laughs	84		[/]	
+Verb, Noun
+fronts	84		[/]	
+Noun
+implant	84		[x/]	
+Noun
+lapse	84		[/]	
+Noun, Verb
+in plant	84		[xx]	
+Phrase
+chant	84		[/]	
+Noun, Verb
+cas	84		[/]	
+Noun
+ax	84		[/]	
+Noun
+Alps	84		[/]	
+Name
+lakhs	84		[/]	
+Noun
+chaps	84		[/]	
+Noun
+flaps	84		[/]	
+Noun
+discounts	84		[x/]	
+Noun
+Cass	84		[/]	
+Name
+confronts	84		[x/]	
+Verb
+mounts	84		[/]	
+Noun, Verb
+Brandt	84		[/]	
+Name
+fonts	84		[/]	
+Noun
+impasse	84		[x/]	
+Noun
+lax	84		[/]	
+Adjective
+flax	84		[/]	
+Noun
+dass	84		[/]	
+Noun
+haunts	84		[/]	
+Noun, Verb
+Lorenz	84		[x/]	
+Name
+masse	84		[/]	
+Noun
+fas
+
 
 ```
 
