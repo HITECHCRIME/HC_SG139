@@ -55,7 +55,13 @@ accomodate accomodate accomodate
 to let people emerge
 
 world chants of death
+world chants of death
 
+hide angst
+mantra of lies
+you let it fly
+can't bear the weight
+then wait till you drown
 
 
 x
