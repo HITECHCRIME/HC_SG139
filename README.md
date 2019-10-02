@@ -94,26 +94,16 @@ hear him
 hit him
 within him	
 near him	
-Phrase
-forgive him	92	[x/x]	
-Phrase
-permit him	92	[x/x]	
-Phrase
-miss him	92	[/x]	
-Phrase
-Sikkim	92	[/x]	
-Name
-pick him	92	[/x]	
-Phrase
-kiss him	92	[/x]	
-Phrase
-wish him	92	[/x]	
-Phrase
-did him	92	[/x]	
-Phrase
-fear him	92	[/x]	
-Phrase
-bid him	92	[/x]	
+forgive him
+permit him
+miss him	
+Sikkim	
+pick him	
+kiss him	
+wish him
+did him	
+fear him	
+bid him	
 Phrase
 win him	92	[/x]	
 Phrase
