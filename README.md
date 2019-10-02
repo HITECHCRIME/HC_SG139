@@ -88,18 +88,12 @@ riddim of death
 RIDDIM
 with him	
 give him
-
 kill him	
-
 bring him	
-
 hear him	
-
 hit him
-
-within him	92	[x/x]	
-Phrase
-near him	92	[/x]	
+within him	
+near him	
 Phrase
 forgive him	92	[x/x]	
 Phrase
