@@ -54,7 +54,15 @@ meeeeee
 heeeeeeeeelp
 meeeeee
 
+world chants
+nobody found
+nobody is around
+world chants
+with silent vibrations
+(it's the riddim of death)
 
+world chants of
+riddim of death
 
 
 ```
