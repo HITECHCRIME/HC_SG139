@@ -104,25 +104,24 @@ wish him
 did him	
 fear him	
 bid him	
-Phrase
-win him	92	[/x]	
-Phrase
-hasidim	92	[x/x]	
-Noun
-cheer him	92	[/x]	
-Phrase
-fit him	92	[/x]	
-Phrase
-this hymn	92	[/x]	
-Phrase
-kick him	92	[/x]	
-Phrase
-dismiss him	92	[x/x]	
-Phrase
-admit him	92	[x/x]	
-Phrase
-minim	92	[/x]	
-Noun
+win him	
+
+hasidim	
+
+cheer him	
+
+fit him	
+
+this hymn	
+
+kick him	
+
+dismiss him
+
+admit him	
+
+minim	
+
 Nissim	92	[/x]	
 Name
 hid him	92	[/x]	
