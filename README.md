@@ -13,7 +13,23 @@
 ## Lyrics
 
 ```
-x
+heeeeeeeeelp
+meeeeee
+heeeeeeeeelp
+meeeeee
+heeeeeeeeelp
+meeeeee
+
+world chants
+nobody found
+nobody is around
+
+world chants
+with silent vibrations
+
+world chants 
+riddim of death
+
 
 ```
 
