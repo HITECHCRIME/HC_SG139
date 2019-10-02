@@ -105,36 +105,21 @@ did him
 fear him	
 bid him	
 win him	
-
 hasidim	
-
 cheer him	
-
 fit him	
-
 this hymn	
-
 kick him	
-
 dismiss him
-
 admit him	
-
 minim	
-
-Nissim	92	[/x]	
-Name
-hid him	92	[/x]	
-Phrase
-endear him	92	[x/x]	
-Phrase
-whip him	92	[/x]	
-Phrase
-forbid him	92	[x/x]	
-Phrase
-acquit him	92	[x/x]	
-Phrase
-equip him	92	[x/x]	
+Nissim	
+hid him	
+endear him	
+whip him
+forbid him
+acquit him
+equip him	
 Phrase
 steer him	92	[/x]	
 Phrase
