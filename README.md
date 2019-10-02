@@ -15,20 +15,25 @@
 ```
 heeeeeeeeelp
 meeeeee
+
 heeeeeeeeelp
 meeeeee
+
 heeeeeeeeelp
 meeeeee
 
 world chants
 nobody found
 nobody is around
-
 world chants
 with silent vibrations
 
 world chants 
 riddim of death
+
+scrolls open 
+to save the human breath
+accomodate accomodate accomodate
 
 
 ```
