@@ -33,7 +33,7 @@ x
 
 ## Notes
 
-Such a fat bass. Gritty voice beginning and some narrative audio. Mid high tones,
+Such a fat bass. Gritty voice beginning and some narrative audio. Mid high tones, tantric, skandowanie.
 
 [FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
 
