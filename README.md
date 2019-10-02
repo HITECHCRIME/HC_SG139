@@ -27,10 +27,14 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
+it's the riddim of death
 
 world chants 
 riddim of death
-sacrifice her
+forlorn despite
+her sacrifice won't be enough
+blood in excess played
+to let people emerge
 
 scrolls open 
 not a whim of chance
