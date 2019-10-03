@@ -14,17 +14,17 @@
 
 ```
 heeeeeeeeelp / hear
-meeeeee      / me
+meeeeee      / meee
 
 heeeeeeeeelp /  break
-meeeeee      /  me
+meeeeee      /  meee
 
 heeeeeeeeelp
 meeeeee      
 
-world chants
+(world chants
 nobody found
-nobody is around
+nobody is around)
 world chants
 with silent vibrations
 world chants
@@ -33,17 +33,21 @@ nobody is around
 world chants
 with silent vibrations
 
-somebody found
-somebody is around
-(it's the riddim of death)
-
+somebody found (it's the)
+somebody is around (riddim of death)
 
 riddim of death
-(sister it's the riddim of death)
+(right sister, riddim of death it's the)
 riddim of death
 
 chance autonomous
+by the pope
+sacrifice won't be enough
+to satiate the blood
+in session
+world despised
 
+xxx
 
 
 world chants
