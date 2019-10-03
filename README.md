@@ -33,7 +33,11 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
-(it's the riddim of death) <
+it's the riddim of death
+
+riddim of death
+
+riddim of death
 
 world chants of
 forlorn despite
