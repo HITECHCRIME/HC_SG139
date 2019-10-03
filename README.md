@@ -58,7 +58,9 @@ accomodate accomodate accomodate
 to let people emerge
 
 world chants of death
+one chance of death
 world chants of death
+once chance of death
 
 hide angst
 mantra of lies
