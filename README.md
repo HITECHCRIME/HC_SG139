@@ -13,14 +13,14 @@
 ## Lyrics
 
 ```
-heeeeeeeeelp
-meeeeee
+heeeeeeeeelp / hear
+meeeeee      / me
 
 heeeeeeeeelp /  break
 meeeeee      /  me
 
-heeeeeeeeelp / hear
-meeeeee      / me
+heeeeeeeeelp
+meeeeee      
 
 world chants
 nobody found
