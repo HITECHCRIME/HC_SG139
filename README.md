@@ -33,8 +33,9 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
-it's the riddim of death
 
+it's the riddim of death
+(riddle of death)
 riddim of death
 x
 riddim of death
@@ -42,7 +43,7 @@ x
 world chants of
 forlorn despite
 her (bold) sacrifice won't be enough
-to satiate blood in excess 
+to satiate blood in excess-ige
 
 world chants of
 forlorn despite
