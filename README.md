@@ -1,6 +1,6 @@
 [cover] ![](57175019_319474918741616_8502199518755923887_n.jpg)
 
-# MOTHNODE_ X
+# MOTHNODE_ Riddim of Death
 
 Riddim of Death?
 
