@@ -42,8 +42,8 @@ chance autonomous
 by the pope
 sacrifice won't be enough
 to satiate the blood
-in session
-world despised
+in session what folorn
+despised
 
 xxx
 
