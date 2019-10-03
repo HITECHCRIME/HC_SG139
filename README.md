@@ -27,6 +27,19 @@ nobody found
 nobody is around
 world chants
 with silent vibrations
+world chants
+nobody found
+nobody is around
+world chants
+with silent vibrations
+
+somebody found
+somebody is around
+(it's the riddim of death)
+
+riddim of death
+
+riddim of death
 
 world chants
 nobody found
