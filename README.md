@@ -6,7 +6,7 @@
 
 ## Project Data
 
-**Title:** X / **Featuring:** MOTHNODE
+**Title:** World Chants Riddims of Death / **Featuring:** MOTHNODE
 
 **Production:** Griesgrammar / **Lyrics:** MOTHNODE
 
