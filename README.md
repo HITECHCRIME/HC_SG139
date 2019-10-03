@@ -37,6 +37,7 @@ somebody found
 somebody is around
 (it's the riddim of death)
 
+(sister it's the riddim of death)
 riddim of death
 
 riddim of death
