@@ -2,8 +2,6 @@
 
 # MOTHNODE_ World Chants Riddims of Death
 
-Riddim of Death?
-
 **Listen now:** 
 
 ## Project Data
