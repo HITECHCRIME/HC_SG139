@@ -26,7 +26,7 @@ meeeeee
 world chants with silent vibrations
 
 world chants nobody found nobody is around
-world chants with silent vibrations
+world chants with silent vibrations (so ferocious)
 
 somebody found (it's the)
 somebody is around (riddim of death)
