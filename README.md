@@ -44,16 +44,21 @@ chance autonomous
 by the pope
 sacrifice won't be enough
 to satiate the blood
-in ses-sion what folorn
+in ses-sion (what it all long) folorn
 despised - ses
 
 world chants of
-forlorn despite
-one sacrifice won't be enough
-won't be enough
-world chants 
 forlorn despise
-to satiate the blood
+one sacrifice won't be enough
+*won't be enough)
+world chants 
+forlorn despite the
+both sacrifice won't be enough
+to satiate blood
+in excess one chance
+in forlorn spide
+one sacrifice won't be enough
+to satiate blood
 
 her (bold) sacrifice won't be enough
 to satiate blood in excess
