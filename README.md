@@ -58,20 +58,18 @@ forlorn despite the
 bold sacrifice won't be enough
 to satiate blood
 in excess one chance
-forlorn spide
+forlorn spiiiiide
 end of sacrifice won't be enough
-to satiate blood
+to satiate bloooood
 
 her all open ears
 holly know it pier
 
-scrolls played open 
+scrolls play open / must stay open
 not a whim of chance
 to save the human breath
 to let people emerge
-/
-must stay open
-human breath
+
 one chance of death
 one chance of death aye
 
@@ -80,7 +78,16 @@ to satiate blood in excess
 
 accomodate accomodate accomodate
 
+world chants of death
+one chance of death
+world chants of death
+once chance of death
 
+hide angst
+mantra of lies
+you let it fly
+can't bear the weight
+then wait till you drown
 
 xxx
 
@@ -110,16 +117,7 @@ to satiate blood in excess
 
 
 
-world chants of death
-one chance of death
-world chants of death
-once chance of death
 
-hide angst
-mantra of lies
-you let it fly
-can't bear the weight
-then wait till you drown
 
 x
 
