@@ -42,8 +42,14 @@ chance autonomous
 by the pope
 sacrifice won't be enough
 to satiate the blood
-in session what folorn
+in ses-sion what folorn
 despised
+
+one sacrifice won't be enough
+to satiate the blood
+
+one chance for death
+one chance for death aye
 
 xxx
 
