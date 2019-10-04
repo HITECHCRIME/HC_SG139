@@ -22,42 +22,36 @@ meeeeee      /  meee
 heeeeeeeeelp
 meeeeee      
 
-(world chants
-nobody found
-nobody is around)
+(world chants nobody found nobody is around)
+world chants with silent vibrations
 
-world chants
-with silent vibrations
-
-world chants
-nobody found
-nobody is around
-world chants
-with silent vibrations
+world chants nobody found nobody is around
+world chants with silent vibrations
 
 somebody found (it's the)
 somebody is around (riddim of death)
 
 riddim of death
+
 (right sister, riddim of death it's the)
 riddim of death
 
 chanced autonomous by the pope
 sacrifice won't be enough
 to satiate the blood in session        / (what it all long) forlorn
-what the forlorn despise               / despised - ses is
+what the forlorn despise - hex
+
 world chants of forlorn despite
-one sacrifice won't be enough
+her bold sacrifice won't be enough
 (won't be enough)
 world chants forlorn despite the
 bold sacrifice won't be enough
-to satiate blood
-in excess one chance
-forlorn spiiiiide (own spies)
+to satiate blood in excess one chance
+forlorn own spies)
 end of sacrifice won't be enough
 to satiate bloooood
 
-her all open ears
+her all the open ears
 
 (holly know it pier)
 
@@ -69,7 +63,7 @@ to let people out
 one chance of death
 one chance of death aye
 
-(emerge)
+emerge
 
 her (bold) sacrifice won't be enough
 to satiate blood in excess
