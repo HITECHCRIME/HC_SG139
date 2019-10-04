@@ -15,8 +15,10 @@
 ```
 heeeeeeeeelp / hear
 meeeeee      / meee
+
 heeeeeeeeelp /  break
 meeeeee      /  meee
+
 heeeeeeeeelp
 meeeeee      
 
@@ -43,11 +45,18 @@ by the pope
 sacrifice won't be enough
 to satiate the blood
 in ses-sion what folorn
-despised
+despised - ses
 
+world chants of
+forlorn despite
 one sacrifice won't be enough
+won't be enough
+world chants 
+forlorn despise
 to satiate the blood
 
+her (bold) sacrifice won't be enough
+to satiate blood in excess
 one chance for death
 one chance for death aye
 
