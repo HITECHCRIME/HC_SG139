@@ -25,8 +25,10 @@ meeeeee
 (world chants
 nobody found
 nobody is around)
+
 world chants
 with silent vibrations
+
 world chants
 nobody found
 nobody is around
@@ -48,22 +50,37 @@ in ses-sion (what it all long) folorn
 despised - ses
 
 world chants of
-forlorn despise
+forlorn despide
 one sacrifice won't be enough
 *won't be enough)
 world chants 
 forlorn despite the
-both sacrifice won't be enough
+bold sacrifice won't be enough
 to satiate blood
 in excess one chance
-in forlorn spide
-one sacrifice won't be enough
+forlorn spide
+end of sacrifice won't be enough
 to satiate blood
+
+her all open ears
+holly know it pier
+
+scrolls played open 
+not a whim of chance
+to save the human breath
+to let people emerge
+/
+must stay open
+human breath
+one chance of death
+one chance of death aye
 
 her (bold) sacrifice won't be enough
 to satiate blood in excess
-one chance for death
-one chance for death aye
+
+accomodate accomodate accomodate
+
+
 
 xxx
 
@@ -91,11 +108,7 @@ her (bold) sacrifice won't be enough
 to satiate blood in excess 
 (it's the riddim of death) <
 
-scrolls played open 
-not a whim of chance
-to save the human breath
-accomodate accomodate accomodate
-to let people emerge
+
 
 world chants of death
 one chance of death
