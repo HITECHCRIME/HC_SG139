@@ -36,7 +36,7 @@ riddim of death
 (right sister, riddim of death it's the)
 riddim of death
 
-chanced autonomous by the pope
+chanced autonomous by the pawn
 sacrifice won't be enough
 to satiate the blood in session        / (what it all long) forlorn
 what the forlorn despise - hex
