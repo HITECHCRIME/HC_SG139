@@ -46,8 +46,8 @@ chance autonomous
 by the pope
 sacrifice won't be enough
 to satiate the blood
-in ses-sion (what it all long) folorn
-despised - ses
+in ses-sion (what it all long) forlorn
+despised - ses is what forlorn despise
 
 world chants of
 forlorn despide
@@ -58,18 +58,18 @@ forlorn despite the
 bold sacrifice won't be enough
 to satiate blood
 in excess one chance
-forlorn spiiiiide
+forlorn spiiiiide (own spies)
 end of sacrifice won't be enough
 to satiate bloooood
 
 her all open ears
-holly know it pier
+
+(holly know it pier)
 
 scrolls play open / must stay open
 not a whim of chance
 to save the human breath
-to let people emerge
-
+to let people out emerge
 one chance of death
 one chance of death aye
 
