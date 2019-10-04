@@ -1242,6 +1242,7 @@ fas
 ## Notes
 
 Such a fat bass. Gritty voice beginning and some narrative audio. Mid high tones, tantric, skandowanie.
+Theme seems to be about climate change and the world turning against its guests. That's the most shallow layer of interpretations though.
 
 [FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
 
