@@ -43,12 +43,10 @@ what the forlorn despise - hex
 
 world chants of forlorn despite
 her bold sacrifice won't be enough
-(won't be enough)
-world chants forlorn despite the
-bold sacrifice won't be enough
+(won't be enough) world chants forlorn 
+despite the bold sacrifice won't be enough
 to satiate blood in excess one chance
-forlorn own spies)
-end of sacrifice won't be enough
+forlorn own spy end of sacrifice won't be enough
 to satiate bloooood
 
 her all the open ears
