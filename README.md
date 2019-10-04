@@ -42,19 +42,14 @@ riddim of death
 (right sister, riddim of death it's the)
 riddim of death
 
-chance autonomous
-by the pope
+chanced autonomous by the pope
 sacrifice won't be enough
-to satiate the blood
-in ses-sion (what it all long) forlorn
-despised - ses is what forlorn despise
-
-world chants of
-forlorn despide
+to satiate the blood in session        / (what it all long) forlorn
+what the forlorn despise               / despised - ses is
+world chants of forlorn despite
 one sacrifice won't be enough
-*won't be enough)
-world chants 
-forlorn despite the
+(won't be enough)
+world chants forlorn despite the
 bold sacrifice won't be enough
 to satiate blood
 in excess one chance
@@ -67,11 +62,14 @@ her all open ears
 (holly know it pier)
 
 scrolls play open / must stay open
-not a whim of chance
+not a whim of chants (chance)
 to save the human breath
-to let people out emerge
+to let people out 
+
 one chance of death
 one chance of death aye
+
+(emerge)
 
 her (bold) sacrifice won't be enough
 to satiate blood in excess
