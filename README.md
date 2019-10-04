@@ -41,6 +41,16 @@ sacrifice won't be enough
 to satiate the blood in session        / (what it all long) forlorn
 what the forlorn despise - hex
 
+chanced autonomous by the pawn
+sacrifice won't be enough
+to satiate the blood in session        / (what it all long) forlorn
+what the forlorn despise - hex
+
+chanced autonomous by the pawn
+sacrifice won't be enough
+to satiate the blood in session        / (what it all long) forlorn ? 3 times? Test this.
+what the forlorn despise - hex
+
 world chants of forlorn despite
 her bold sacrifice won't be enough
 (won't be enough) world chants forlorn 
