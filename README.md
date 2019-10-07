@@ -13,6 +13,25 @@
 ## Lyrics
 
 ```
+intro has the powerful beat intro with vocal slowly increasing in volume)
+INTRO START
+(world chants nobody found nobody is around)
+world chants with silent vibrations
+
+world chants nobody found nobody is around
+world chants with silent vibrations (so ferocious) - VIOLENT VIBRATIONS
+
+somebody found (it's the)
+somebody is around (riddim of death)
+
+riddim of death
+
+(right sister, riddim of death it's the)
+riddim of death
+INTRO END
+
+AND NOW THE ACTUAL SONG STARTS
+
 heeeeeeeeelp / hear
 meeeeee      / meee
 
