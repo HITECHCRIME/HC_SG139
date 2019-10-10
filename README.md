@@ -220,24 +220,22 @@ free him	88	[/x]
 
 be him	88	[/x]	
 
-sie ihm	88	[/x]	
-Phrase
+sie ihm	88	[/x]
 wth him	88	[/x]	
-Phrase
 to him	84	[/x]	
-Phrase
+
 victim	84	[/x]	
-Noun
+
 by him	84	[/x]	
-Phrase
+
 saw him	84	[/x]	
-Phrase
+
 know him	84	[/x]	
-Phrase
+
 knew him	84	[/x]	
-Phrase
+
 through him	84	[/x]	
-Phrase
+
 allow him	84	[x/x]	
 Phrase
 show him	84	[/x]	
