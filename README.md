@@ -191,15 +191,12 @@ whip him
 forbid him
 acquit him
 equip him	
-Phrase
-steer him	92	[/x]	
-Phrase
-Gwilym	92	[/x]	
-Name
-revere him	92	[x/x]	
-Phrase
-outlive him	92	[x/x]	
-Phrase
+steer him
+Gwilym	
+revere him	
+outlive him
+
+
 lick him	92	[/x]	
 Phrase
 fling him	92	[/x]	
