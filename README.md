@@ -317,7 +317,7 @@ bed	86		[/]
 address	86		[/x]	
 check	86		[/]	
 aware	86		[x/]	awareness such tough thing to bear, ahead of comparing, quit is not forever, for now just sit in a chair
-bear	86		[/]	 belief in mastery begins with endless queries yeah
+bear	86		[/]	 belief in mastery begins with endless queries yeah endless queries yeah  Meek Mill & Nicki Minaj Type Beat - "SHE BAD" Feat. Chris Brown
 ahead	86		[x/]	
 chair	86		[/]	
 compare	86		[x/]	
