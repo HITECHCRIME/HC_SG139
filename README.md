@@ -194,9 +194,7 @@ equip him
 steer him
 Gwilym	
 revere him	
-outlive him
-
-
+outlive hi
 lick him	92	[/x]	
 fling him	92	[/x]	
 git him	92	[/x]	
@@ -211,52 +209,30 @@ chid him	92	[/x]
 outstrip him	92	[x/x]	
 heare him	92	[/x]	
 readmit him	92	[xx/x]	
-
 twit him	92	[/x]	
-
 see him	88	[/x]	
-
 free him	88	[/x]	
-
-be him	88	[/x]	
-
+be him	88	[/x]
 sie ihm	88	[/x]
 wth him	88	[/x]	
 to him	84	[/x]	
-
 victim	84	[/x]	
-
 by him	84	[/x]	
-
 saw him	84	[/x]	
-
 know him	84	[/x]	
-
 knew him	84	[/x]	
-
 through him	84	[/x]	
-
 allow him	84	[x/x]	
-Phrase
 show him	84	[/x]	
-Phrase
 killed him	84	[/x]	
-Phrase
 gives him	84	[/x]	
-Phrase
 into him	84	[x/x]	
-Phrase
-kissed him	84	[/x]	
-Phrase
 pay him	84	[/x]	
-Phrase
 assist him	84	[x/x]	
-Phrase
 convince him	84	[x/x]	
-Phrase
 threw him	84	[/x]	
-Phrase
 below him	84	[x/x]	
+
 Phrase
 encourage him	84	[x/xx]	
 Phrase
