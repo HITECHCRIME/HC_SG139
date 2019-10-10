@@ -316,16 +316,11 @@ cell	86		[/]
 bed	86		[/]	
 address	86		[/x]	
 check	86		[/]	
-aware	86		[x/]	
-Adjective
+aware	86		[x/]	awareness such tough thing to bear, ahead of comparing, quit is not forever, for now just sit in a chair
 bear	86		[/]	
-Verb, Noun
 ahead	86		[x/]	
-Adverb
 chair	86		[/]	
-Noun
 compare	86		[x/]	
-Verb
 bell	86		[/]	
 Noun
 bread	86		[/]	
