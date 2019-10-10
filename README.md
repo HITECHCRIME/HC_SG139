@@ -259,95 +259,50 @@ endeared him
 
 DEATH
 breath	100	♫	[/]	
-Noun
 Seth	100	♫	[/]	
-Name
 Macbeth	100	♫	[x/]	
-Name
 meth	100	♫	[/]	
-Noun
 Beth	100		[/]	
-Name
 Ebv	100		[/]	
-Name
 Eth	100		[/]	
-Name
 Sheth	100		[/]	
-Name
 Neth	100		[/]	
-Name
 Heth	100		[/]	
-Name
 Sneath	100		[/]	
-Name
 deth	100		[/]	
-Noun
 Mcbeth	100		[x/]	
-Name
 health	92		[/]	
-Noun
 length	92		[/]	
-Noun
 strength	92		[/]	
-Noun
 depth	92		[/]	
-Noun
 wealth	92		[/]	
-Noun
 deaths	92		[/]	
-Noun
 tenth	92		[/]	
-Noun, Adjective
 breadth	92		[/]	
-Noun
 in depth	92		[xx]	
-Phrase
 breaths	92		[/]	
-Noun
 nth	92		[/]	
-Adjective
 stealth	92		[/]	
-Noun
 in breadth	92		[x/]	
-Phrase
 wreathed	92		[/]	
-Adjective
 Sgpt	92		[/]	
-Name
 Bethke	92		[/]	
-Name
 der eth	92		[/x]	
-Phrase
 Bethe	90		[/]	
-Name
 with	88		[/]	
-Other
 Smith	88		[/]	
-Name
 fifth	88		[/]	
-Adjective, Noun
 myth	88		[/]	
-Noun
 ith	88		[/]	
-Adjective
 Smyth	88		[/]	
-Name
 pith	88		[/]	
-Noun
 Frith	88		[/]	
-Name
 scythe	88		[/]	
-Noun
 Blyth	88		[/]	
-Name
 kith	88		[/]	
-Noun
 yth	88		[/]	
-Noun
 b'rith	88		[/]	
-Noun
 vth	88		[/]	
-Noun, Adjective
 Stith	88		[/]	
 Name
 lith	88		[/]	
