@@ -304,31 +304,18 @@ yth	88		[/]
 b'rith	88		[/]	
 vth	88		[/]	
 Stith	88		[/]	
-Name
 lith	88		[/]	
-Noun
 Sith	88		[/]	
-Name
 brith	88		[/]	
-Noun
 as	86		[/]	
-Noun, Adverb
 's	86		[/]	
-Verb
 again	86		[x/]	
-Adverb
 care	86		[/]	
-Noun, Verb
 air	86		[/]	
-Noun
 cell	86		[/]	
-Noun
 bed	86		[/]	
-Noun
 address	86		[/x]	
-Noun, Verb
 check	86		[/]	
-Verb, Noun
 aware	86		[x/]	
 Adjective
 bear	86		[/]	
