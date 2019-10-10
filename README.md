@@ -198,33 +198,32 @@ outlive him
 
 
 lick him	92	[/x]	
-Phrase
+
 fling him	92	[/x]	
-Phrase
+
 git him	92	[/x]	
-Phrase
 wid him	92	[/x]	
-Phrase
+
 piss him	92	[/x]	
-Phrase
+
 prick him	92	[/x]	
-Phrase
+
 ich ihm	92	[/x]	
-Phrase
+
 undid him	92	[x/x]	
-Phrase
+
 bewitch him	92	[x/x]	
-Phrase
+
 sich ihm	92	[/x]	
-Phrase
+
 chid him	92	[/x]	
-Phrase
+
 outstrip him	92	[x/x]	
-Phrase
+
 heare him	92	[/x]	
-Phrase
+
 readmit him	92	[xx/x]	
-Phrase
+
 twit him	92	[/x]	
 Phrase
 see him	88	[/x]	
