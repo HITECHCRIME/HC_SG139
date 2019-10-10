@@ -67,7 +67,7 @@ what the forlorn despise - hex
 
 chanced autonomous by the pawn
 sacrifice won't be enough
-to satiate the blood in session        / (what it all long) forlorn ? 3 times? Test this.
+to satiate the blood in session        / (what it all long) forlorn ? 3 times? Test this. Perhaps just 2 times?
 what the forlorn despise - hex
 
 world chants of forlorn despite
