@@ -232,54 +232,29 @@ assist him	84	[x/x]
 convince him	84	[x/x]	
 threw him	84	[/x]	
 below him	84	[x/x]	
-
-Phrase
 encourage him	84	[x/xx]	
-Phrase
 Systeme	84	[/x]	
-Name
 Chaim	84	[/x]	
-Name
 drew him	84	[/x]	
-Phrase
 filled him	84	[/x]	
-Phrase
 throw him	84	[/x]	
-Phrase
 picked him	84	[/x]	
-Phrase
 obey him	84	[x/x]	
-Phrase
 missed him	84	[/x]	
-Phrase
 brings him	84	[/x]	
-Phrase
 destroy him	84	[x/x]	
-Phrase
 with jim	84	[/x]	
-Phrase
 wished him	84	[/x]	
-Phrase
 kicked him	84	[/x]	
-Phrase
 buy him	84	[/x]	
-Phrase
 draw him	84	[/x]	
-Phrase
 owe him	84	[/x]	
-Phrase
 deny him	84	[x/x]	
-Phrase
-think him	84	[/x]	
-Phrase
-dismissed him	84	[x/x]	
-Phrase
-betray him	84	[x/x]	
-Phrase
-lift him	84	[/x]	
-Phrase
-supply him	84	[x/x]	
-Phrase
+think him	
+dismissed him
+betray him
+lift him	
+supply him
 endeared him
 
 DEATH
