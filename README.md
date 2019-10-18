@@ -640,27 +640,17 @@ Phrase, Adverb
 contracts	92		[/x]	
 Noun
 rats	92		[/]	
-Noun
+
 enhance	92		[x/]	
-Verb
 romance	92		[x/]	
-Noun
 cats	92		[/]	
-Noun
 stance	92		[/]	
-Noun
 impacts	92		[x/]	
-Noun
 extracts	92		[/x]	
-Noun
 contrasts	92		[/x]	
-Noun, Verb
 tracts	92		[/]	
-Noun
 castes	92		[/]	
-Noun
 hats	92		[/]	
-Noun
 crafts	92		[/]	
 Noun
 lasts	92		[/]	
