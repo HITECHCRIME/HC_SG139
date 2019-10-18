@@ -316,40 +316,24 @@ cell	86		[/]
 bed	86		[/]	
 address	86		[/x]	
 check	86		[/]	
-
 ahead	86		[x/]	
 chair	86		[/]	
 compare	86		[x/]	
 bell	86		[/]	
-Noun
 bread	86		[/]	
-Noun
 chem	86		[/]	
-Noun
 assess	86		[x/]	
-Verb
 Ben	86		[/]	
-Name
 affair	86		[x/]	
-Noun
 bare	86		[/]	
-Adjective
 cigarette	86		[xx/]	
-Noun
 bet	86		[/]	
-Verb, Noun
 Cornell	86		[x/]	
-Name
 beg	86		[/]	
-Verb
 confess	86		[x/]	
-Verb
 Chen	86		[/]	
-Name
 bless	86		[/]	
-Verb
 Czech	86		[/]	
-Name, Adjective
 Beck	86		[/]	
 Name
 bred	86		[/]	
