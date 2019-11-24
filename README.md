@@ -1,4 +1,4 @@
-[cover] ![](57175019_319474918741616_8502199518755923887_n.jpg)
+![](worldchantsriddimsofdeath.png)
 
 # MOTHNODE_ World Chants Riddims of Death
 
