@@ -1113,6 +1113,23 @@ fas
 Such a fat bass. Gritty voice beginning and some narrative audio. Mid high tones, tantric, skandowanie.
 Theme seems to be about climate change and the world turning against its guests. That's the most shallow layer of interpretations though.
 
-[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav
+[FREE] SCARLXRD x XXXTENTACION x Zillakami Type Beat - 404.wav]
+
+MOTHNODE_ Riddim of Death [prod. Griesgrammar] / Lyrics Testing
+
+/// UPLINK ESTABLISHED_ . “world chants, nobody found
+nobody is around, world chants
+with silent vibrations
+it's the riddim of death
+
+world chants of forlorn despite
+her bold sacrifice won't be enough
+to satiate blood in excess”
+
+Yesterday’s prototype HC_SG139 got a bit more juice now and has a name (World Chants Riddims Of Death). Had a couple of tries with different beats and then I found @griesgrammar with his brutal renditions. You make fire good sir.
+Lyrics slowly turn into lovely cascades as I keep working on them. I mean who wouldn’t chant “RIDDIM OF DEATH” at a live experience, huh? ;) . /// NODE STEMS_
+#aggrotrap #trapcore #trapmetal #prototype #metal #rap #trap #polskirap #darktrap #hitechcrime #universe #lore #cyber #futura #techwear #humanedge #red #cyberpunk2077 #cyberpunks #cyberpunktheme #nofuture #newfuture #futuristic #brutal #music #red #visuals #riddim #death #meditation #bass .
+
+@hitechcrime
 
 ## Music Video
